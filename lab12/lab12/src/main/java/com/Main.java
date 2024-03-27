@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Tester tester1 = new Tester();
         tester1.printInfo();
+        0
 
         Tester tester2 = new Tester("Валентин");
         tester2.printInfo("Данные о сотрудниках");
